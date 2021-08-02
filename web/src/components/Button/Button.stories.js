@@ -1,11 +1,11 @@
-import { Primary, Secondary, Tertiary } from './Button'
+import { Primary, Secondary, Dark } from './Button'
 
 export const generated = () => {
   return (
     <>
       <Primary />
       <Secondary />
-      <Tertiary />
+      <Dark />
     </>
   )
 }
